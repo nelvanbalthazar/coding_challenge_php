@@ -10,16 +10,23 @@ I tried to download  jsonl file as input file using AWS SDK but it alwyas giving
 
 All output file was stored in folder storage/app. 
 
-It is Laravel Console Application File, to run it just type  php artisan command:name then the application will start automatically.
-Command File was stored in app/Console/Command with OrderData.php then all classes that contain all functionality were stored in app/Console/Library. Several package werenused for this challenge:
+It is Laravel Console Application File, to run it just type  
+
+     php artisan command:name 
+
+then the application will start automatically. Command File was stored in app/Console/Command with OrderData.php then all classes that contain all functionality were stored in app/Console/Library. Several packages were used for this challenge :
 
     ozdemirburak/json-csv <br>
     stolt/json-lines<br>
     League\Csv<br>
     GuzzleHttp\<br>
     Aws/S3<br>
+
+I used those packages because it's simple and easy to used. 
+
+
     
-Hopefully There will be a good news for me in Future.
+
 
 
 
