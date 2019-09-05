@@ -1,5 +1,5 @@
 Name : Nelvan Balthazar Petrian Karensus Resi<br>
-Phone : +62821247423696 <br>
+Phone : +6282124743696 <br>
 Email : nelvan.balthazar@gmail.com / nelvan.balthazar@hotmail.com <br>
 
 Framework Used :  Laravel 5.8 (PHP 7.1). 
